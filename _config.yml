@@ -41,9 +41,9 @@ links:
  # - title: Teams
  #  url: /teams/
   - title: Papers
-    url: /papers/
+    url: ../papers/
   - title: Teaching
-    url: /teaching/
+    url: ../teaching/
   #- title: Hobbies
   #  url: /hobbies/
   #- title: Blogs
