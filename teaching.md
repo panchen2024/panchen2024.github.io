@@ -4,7 +4,7 @@ permalink: /teaching/index.html
 title: Teaching
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; # [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+#> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
 
