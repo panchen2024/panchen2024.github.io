@@ -2,11 +2,7 @@
 layout: page
 ---
 
-# About Me
-
 <img src="images/my_profile1.png" class="floatpic" width="450" height="480">
-
-**Pan Chen (陈攀)**.
 
 Greetings! I'm Pan Chen, a fourth-year Ph.D. student in Economics at the University of Colorado Boulder. My research focuses on environmental and development economics, with additional interests in economic history and political economics. Welcome to my personal website!
 
