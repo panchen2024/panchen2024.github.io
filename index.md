@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/my_profile.png" class="floatpic" width="360" height="480">
+<img src="images/my_profile.png" class="floatpic" width="480" height="480">
 
 **Pan Chen (陈攀)**.
 
