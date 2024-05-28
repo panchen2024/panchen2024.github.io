@@ -5,7 +5,7 @@ layout: page
 <img src="images/my_profile1.png" class="floatpic" width="450" height="480">
 <div style="text-align: justify"> Welcome to my personal website! I'm Pan Chen, a fourth-year Ph.D. candidate in Economics at the University of Colorado Boulder. My research focuses on environmental and development economics, with additional interests in economic history and political economics. </div>
 
-<div style="text-align: justify"> Feel free to explore my [Curriculum Vitae](../file/CV_Pan.pdf) and reach out via [email](mailto:pach8330@colorado.edu) for any inquiries or potential collaborations. </div>
+Feel free to explore my [Curriculum Vitae](../file/CV_Pan.pdf) and reach out via [email](mailto:pach8330@colorado.edu) for any inquiries or potential collaborations. 
 
 ## Academic Background
 
