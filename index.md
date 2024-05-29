@@ -7,7 +7,7 @@ Welcome to my personal website! I'm Pan Chen, a fourth-year Ph.D. candidate in E
 
 ---
 
-## Academic Background
+## Education
 - **July 2021 - May 2026 (expected):** University of Colorado Boulder (Ph.D. in Economics)
 - **July 2021 - May 2023:** University of Colorado Boulder (M.A. in Economics)
 - **Sep 2015 - June 2018:** Huazhong University of Science and Technology (M.A. in Economics)
