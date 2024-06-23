@@ -15,6 +15,10 @@ Welcome to my personal website! I'm a PhD candidate in Economics at the Universi
 
 ---
 
+## Research Assistant
+- **Summer 2024, Summer 2022**: RA for Professor **Carol Shiue** at the University of Colorado Boulder
+
+---
 ## News and Updates
 
 
