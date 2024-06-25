@@ -3,7 +3,6 @@ layout: page
 permalink: /papers/index.html
 title: Research
 ---
-
 ## Working papers
    ### Environmental and Development
 
