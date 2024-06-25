@@ -6,9 +6,10 @@ title: Research
 
 ## Working papers
 
-- "Industrialization and Pollution: Long-term Impact of Air Pollution on Human Capital Formation"
-- "Pollution and Revealed Public Discontents: Evidence from an Official Online Message Board of China"
-- "Mining Chinese Historical Sources at Scale: A Machine-Learning Approach to Qing State Capacity", for presentation at CEPR Economic History Symposium, Dublin, June 2024 (with Wolfgang Keller, Carol Shiue, and Sen Yan)
+- "Pollution and Revealed Public Discontents: Evidence from an Official Online Message Board of China", Aug 2024
+- "Mining Chinese Historical Sources at Scale: A Machine-Learning Approach to Qing State Capacity", for presentation at CEPR Economic History Symposium, Dublin, Jun 2024 (with Wolfgang Keller, Carol Shiue, and Sen Yan)
+- "Industrialization and Pollution: Long-term Impact of Air Pollution on Human Capital Formation", Jan 2024
+
 ---
 
 ## Work in progress
