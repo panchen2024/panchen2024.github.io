@@ -6,9 +6,9 @@ title: Teaching
 
 ## Instructor
 
-- Spring 2024：Intermediate Macroeconomic Theory
+- **Intermediate Macroeconomic Theory**: Spring 2024
 
 ## Teaching Assistant
-- Fall 2023, Spring 2023, Fall 2022, Spring 2022, Fall 2021: Principles of Microeconomics
+- **Principles of Microeconomics**: Fall 2023, 2022, 2021; Spring 2023, 2022
 
 
