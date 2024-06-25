@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="images/my_profile1.png"  class="floatpic" width="440" height="500"> 
+<img src="images/my_profile1.png"  class="floatpic" width="440" height="480"> 
 Welcome to my personal website! I'm a PhD candidate in Economics at the University of Colorado Boulder. My main research interests lie in environmental and development economics, with secondary interests in economic history and political economy. You can view my [**CV here**](../file/CV_Pan.pdf). Feel free to reach out to me at [*pach8330@colorado.edu*](mailto:pach8330@colorado.edu).
 
 ---
