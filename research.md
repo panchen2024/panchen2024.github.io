@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-## Working Papers
+## Working papers
 
 ### Environmental and Development
 
@@ -15,6 +15,6 @@ title: Research
  - "Mining Chinese Historical Sources at Scale: A Machine-Learning Approach to Qing State Capacity", for presentation at CEPR Economic History Symposium, Dublin, Jun 2024 (with Wolfgang Keller, Carol Shiue, and Sen Yan)
 
 ---
-## Work in Progress
+## Work in progress
 
 - "Intellectual Property Protection, Environmental Enforcement, and Green Innovation" (With Hongzhong Fan and Jiangchen Dong) 
